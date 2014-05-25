@@ -1,3 +1,3 @@
 WEBSITE
 =======================
-This is my personal website hosted through github at www.akshatg.com
+This is my personal website hosted through github at akshatg.com
